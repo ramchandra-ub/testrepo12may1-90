@@ -1,0 +1,17 @@
+{
+    "assetName": "sample-name",
+    "description": "sample-desc",
+    "topics": [
+        "ens-lifesciences",
+        "ens-asset",
+        "ens-asset",
+        "ens-asset",
+        "ens-asset",
+        "ens-asset",
+        "ens-asset",
+        "ens-asset"
+    ],
+    "associations": [
+        "github.com"
+    ]
+}
